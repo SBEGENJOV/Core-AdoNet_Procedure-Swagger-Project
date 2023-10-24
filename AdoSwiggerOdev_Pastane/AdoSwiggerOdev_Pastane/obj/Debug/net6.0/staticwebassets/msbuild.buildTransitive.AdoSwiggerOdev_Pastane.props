@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AdoSwiggerOdev_Pastane.props" />
+</Project>
